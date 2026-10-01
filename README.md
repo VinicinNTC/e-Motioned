@@ -9,8 +9,6 @@ npm install
 npm run dev
 ```
 
-Abra o endereço que o Vite mostrar no terminal (geralmente http://localhost:5173).
-
 ## Como funciona
 
 - **Autenticação mockada**: `src/context/AuthContext.jsx` guarda usuários e sessão no
